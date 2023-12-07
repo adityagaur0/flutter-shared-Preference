@@ -59,3 +59,7 @@ await prefs.getStringList('items');
 // Remove data for the 'counter' key. 
 final success = await prefs.remove('counter');
 ```
+
+### ScreenShot
+
+<img width="303" alt="Screenshot 2023-12-07 at 5 36 22 PM" src="https://github.com/adityagaur0/flutter-shared-Preference/assets/112656570/5012b11e-171b-4fb6-acf9-4edb0bb72b9e">
